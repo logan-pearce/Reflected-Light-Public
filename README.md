@@ -1,1 +1,1 @@
-Files and code for reflected light exoplanet campaigns with ground-based ELTs.
+Files and code for reflected light exoplanet campaigns.
